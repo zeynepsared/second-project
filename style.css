@@ -1,0 +1,203 @@
+body{
+    background-color: rgb(106, 124, 172);
+}
+.kutu1{
+    width:250px;
+    height:30px;
+    background-color:white;
+}
+.başlık1{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 10px;
+    color:white;
+}
+.metin1{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top:60px;
+    color:white;
+}
+.liste1{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    color:white;
+}
+.başlık2{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 650px;
+    color:white;
+}
+.başlık3{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1000px;
+    color:white;
+}
+.renk1{
+    background-color: rgb(226, 155, 197);
+    width:650px;
+height: 40PX;
+text-align:450px;
+}
+
+.renk2{
+    background-color: rgb(226, 155, 197);
+    width:100px;
+height: 40PX;
+text-align:9z50px;
+}
+.renk3{
+    background-color: rgb(226, 155, 197);
+    width:100px;
+height: 40PX;
+text-align:350px;
+}
+.renk4{
+    background-color: rgb(226, 155, 197);
+    width:100px;
+height: 40PX;
+text-align:350px;
+}
+.renk5{
+    background-color: rgb(226, 155, 197);
+    width:300px;
+height: 40PX;
+}
+.renk6{
+    background-color: rgb(226, 155, 197);
+    width:500px;
+height: 40PX;
+}
+.link{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 2550px; 
+    color:white;    
+}
+hr{
+    float: left;
+    position: absolute;
+    width: 5;
+}
+.başlık4{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+    color:white;
+}
+.metin2{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top:460px;
+    color:white;   
+}
+.liste2{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 520px;   
+    color:white;
+}
+.liste3{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 570px;   
+    color:white;
+}.liste4{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 600px; 
+    color:white;  
+}.metin3{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 700px;  
+    color:white; 
+}
+.metin4{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1050px; 
+    color:white;  
+}
+.başlık5{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1200px;
+    color:white;
+}
+.metin5{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1250px; 
+    color:white;  
+}
+.başlık6{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1450px;
+    color:white;
+}
+.metin6{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1500px; 
+    color:white;  
+}
+.başlık7{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1950px;
+    color:white;
+}
+.metin7{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 2000px; 
+    color:white;  
+}
+.başlık8{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 2300px;
+    color:white;
+}
+.metin8{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 2350px; 
+    color:white;  
+}
+.başlık9{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 2500px;
+    color:white;
+}
+.js{
+    color:white;
+}
